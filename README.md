@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijith K J</h1>
-<h3 align="center">I'm a machine learning Engineer deeply passionate about the fascinating world of Artificial Intelligence (AI).</h3>
+<h3 align="center">I'm a machine learning engineer deeply passionate about the fascinating world of Artificial Intelligence (AI).</h3>
 
 <br/>
 
