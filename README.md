@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhijith K J</h1>
-<h3 align="center">I'm a machine learning student deeply passionate about the fascinating world of Artificial Intelligence (AI).</h3>
+<h3 align="center">I'm a machine learning Engineer deeply passionate about the fascinating world of Artificial Intelligence (AI).</h3>
 
 <br/>
 
-## 🌟 My AI Journey Begins...
+##  My AI Journey Begins...
 
 Once, I was just a curious learner, amazed by how machines could:
 
@@ -18,7 +18,7 @@ Now, I'm a **Machine Learning Engineer**, diving every day into the exciting wor
 
 This journey is ongoing, and I'm here to **share everything I learn** — from the basics to advanced ideas.
 
-Let's grow together 🚀
+Let's grow together 
 
 ---
 
